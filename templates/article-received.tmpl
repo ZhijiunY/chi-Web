@@ -1,0 +1,26 @@
+{{template "base" .}}
+{{define "content"}}
+<!--show article title-->
+{{$res := index .Data "article"}}
+<!--get article from data-->
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1 class="mt-5">Article Received</h1>
+            <hr>
+            <table class="table">
+                <thead></thead>
+                <tbbody>
+                    <tr>
+                        <td>{{$res.BlogTitle}}</td>
+                    </tr>
+                    <tr>
+                        <td>{{$res.BlogArticle}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+{{end}}
