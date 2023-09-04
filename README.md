@@ -43,10 +43,5 @@
 | Article Received | GET      | /article-received|
 | Makepost         | POST     | /makepost        |
 
-| Left columns  | Right columns | apple |
-| ------------- |:-------------:|----------|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
 
 ## Prerequisites
