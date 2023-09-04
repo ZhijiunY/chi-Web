@@ -1,8 +1,8 @@
 # chi-Web
 ## Core Feature
-## Table of Contents
+## Table of Contents:
 
-* Main Features
+* Main Features:
   * Real-Time Message
   * Video Call
   * Web-Push Notification
@@ -33,7 +33,7 @@
     -
 
 3. Router
-|Function          | Method   | Path |
+|Function          | Method   | Path             |
 |------------------| :-------:|------------------|
 | Home             | GET      | /                |
 | About            | GET      | /about           |
@@ -42,6 +42,5 @@
 | Makepost         | GET      | /makepost        |
 | Article Received | GET      | /article-received|
 | Makepost         | POST     | /makepost        |
-
 
 ## Prerequisites
