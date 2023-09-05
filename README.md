@@ -1,7 +1,7 @@
 # chi-Web
 ## Core Feature
 ## Table of Contents:
-* Main Features
+* [Main Features](Main Features)
   * Objectives
   * Functional Requirements
   * Prerequisites
