@@ -1,14 +1,14 @@
 # chi-Web
 ## Core Feature
 ## Table of Contents:
-
-* Main Features:
-  * Real-Time Message
-  * Video Call
-  * Web-Push Notification
+* Main Features
+  * Objectives
+  * Functional Requirements
+  * Prerequisites
 * Project Architecture
 * Skills and Techniques
 
+## Main Features
 ## Objectives:
 - [Main] Learn and familiarize with Go programming language
 - [Use]
