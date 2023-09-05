@@ -1,7 +1,7 @@
 # chi-Web
 ## Core Feature
 ## Table of Contents:
-* [Main Features](Main Features)
+* Main Features
   * Objectives
   * Functional Requirements
   * Prerequisites
@@ -33,15 +33,47 @@
     -
 
 3. Router
-|Function          | Method   | Path             |
-|------------------| :-------:|------------------|
-| Home             | GET      | /                |
-| About            | GET      | /about           |
-| Login            | GET      | /login           |
-| Page             | GET      | /page            |
-| Makepost         | GET      | /makepost        |
-| Article Received | GET      | /article-received|
-| Makepost         | POST     | /makepost        |
-
+<table>
+    <tr>
+        <td>Function</td>
+        <td>Method</td>
+        <td>Path</td>
+    </tr>
+    <tr>
+        <td>Home</td>
+        <td>GET</td>
+        <td>/</td>
+    </tr>
+    <tr>
+        <td>About</td>
+        <td>GET</td>
+        <td>/about</td>
+    </tr>
+    <tr>
+        <td>Login</td>
+        <td>GET</td>
+        <td>/login</td>
+    </tr>
+    <tr>
+        <td>Page</td>
+        <td>GET</td>
+        <td>/page</td>
+    </tr>
+    <tr>
+        <td>Makepost</td>
+        <td>GET</td>
+        <td>/makepost</td>
+    </tr>
+    <tr>
+        <td>Article Received</td>
+        <td>GET</td>
+        <td>/article-received</td>
+    </tr>
+    <tr>
+        <td>Makepost</td>
+        <td>GET</td>
+        <td>/makepost</td>
+    </tr>
+</table>
 
 ## Prerequisites
